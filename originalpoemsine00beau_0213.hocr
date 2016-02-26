@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./originalpoemsine00beau/originalpoemsine00beau_0213.png"; bbox 0 0 2138 2975; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1654 305 2007 410">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1654 305 2007 410">
+     <span class='ocr_line' id='line_1_1' title="bbox 1654 305 2007 410; baseline 0.065 -22"><span class='ocrx_word' id='word_1_1' title='bbox 1654 305 2007 410; x_wconf 39' lang='grc' dir='ltr'><strong><em>ΗΗΗΗΗΗΝΙΗΙΗῙΗἸ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1610 302 1650 387">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1610 302 1650 387">
+     <span class='ocr_line' id='line_1_2' title="bbox 1610 302 1650 387; baseline 0.05 -2"><span class='ocrx_word' id='word_1_2' title='bbox 1610 302 1650 387; x_wconf 68' lang='grc' dir='ltr'><em>Μ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 283 622 381 752">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 283 622 381 752">
+     <span class='ocr_line' id='line_1_3' title="bbox 360 671 381 752; baseline -27 0"><span class='ocrx_word' id='word_1_3' title='bbox 360 671 381 752; x_wconf 72' lang='grc'><strong><em>65</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 335 670 355 752; baseline -20.5 -61.5"><span class='ocrx_word' id='word_1_4' title='bbox 335 670 355 752; x_wconf 72' lang='grc'><strong><em>18</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 308 622 357 750; baseline -14.222 14.222"><span class='ocrx_word' id='word_1_5' title='bbox 308 622 357 750; x_wconf 51' lang='lat' dir='ltr'><strong><em>manu&amp;</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 283 625 306 751; baseline -21 -21"><span class='ocrx_word' id='word_1_6' title='bbox 283 625 306 751; x_wconf 61' lang='grc' dir='ltr'><strong><em>*ΞΒ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
